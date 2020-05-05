@@ -1,3 +1,6 @@
-**Covid-19 Tracker:
--- React
--- Charts.js
+Covid-19 Tracker
+===============
+
+## Tools Used:
+- React
+- Charts.js
