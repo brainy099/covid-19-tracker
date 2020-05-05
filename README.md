@@ -1,8 +1,9 @@
-Covid-19 Tracker
-===============
+# Covid-19 Tracker
 
-## Tools Used:
-- React
-- Charts.js
-- Material UI
+### [Live Preview](https://covid19tracker099.netlify.app/)
+
+>## Tools Used:
+>- React
+>- Chart.js
+>- Material UI
 
